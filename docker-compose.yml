@@ -1,7 +1,7 @@
 # yaml bir veri serilizasyon dilidir
 # verileri key-value olarak tutar
-# her yaml dosyası bir version keyi ile başlamak zorundadır
-# top level key'ler -> version services volumes networks
+# he.l dosyası bir version keyi ile başlamak zorundadır
+# top level key'ler -> version services volumes networks..
 
 # Senaryo: bir veritabanı servisi olacak bir de wordpress servisi, ardından 2 servis arasında bağlantı kurarak wordpress uygulamasını ayağa kaldıracağız
 
